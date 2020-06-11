@@ -6,6 +6,10 @@ import ctypes.util
 import os
 import sys
 
+# 06/11/2020
+# Midified my Xinghua
+# Intend to add PDC101
+
 # constants
 # Home direction
 HOME_FWD = 1
